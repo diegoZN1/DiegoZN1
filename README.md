@@ -14,9 +14,8 @@ Software Engineer @ TCS · Querétaro, México
 ![AWS](https://img.shields.io/badge/AWS-DVA--C02%20in%20progress-FF9900?style=flat&logo=amazonaws)
 
 ## Ahora mismo
-- 🏗️ Construyendo [dizn.site](https://dizn.site)
+- 🏗️ Construyendo [dizn.site](https://diegozamora.dev/)
 - 📚 Estudiando AWS Developer Associate (examen: junio 2026)
-- ⚙️ Self-hosting en Ubuntu — servidor milanesa
 
 ## Encuéntrame
-[![Portfolio](https://img.shields.io/badge/dizn.site-000?style=flat&logo=vercel)](https://dizn.site)
+[![Portfolio](https://img.shields.io/badge/dizn.site-000?style=flat&logo=vercel)]([https://dizn.site](https://diegozamora.dev/))
